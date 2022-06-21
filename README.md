@@ -12,7 +12,7 @@ cd ~/code
 git clone https://github.com/leandrosardi/adminflare
 ```
 
-## Learn Basic Concepts
+## 2. Learn Basic Concepts
 
 Here is a list of tools that you will use by sure on any project.
 
@@ -21,6 +21,6 @@ Here is a list of tools that you will use by sure on any project.
 3. Components: `/code/adminflare/html/components.html`.
 4. Modals: `/code/adminflare/html/javascript.html` - Learn how to popup a modal dialog.
 
-## DISCLAIMER 
+## 3. Disclaimer 
 
 I am not the author of the AdminFlare template. I have not right for selling it.
